@@ -1,0 +1,13 @@
+{
+  "name": "absorvedordetequisto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "fonuncia": "nodemon src/index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
